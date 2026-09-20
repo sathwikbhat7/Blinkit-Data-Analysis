@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyzes Blinkit grocery sales across product categories, outlet characteristics, locations, and establishment years. The project covers data preparation in Power Query, DAX-based KPI development, interactive reporting, and business-oriented analysis.
 
-![Dashboard Preview](Power-BI/dashboard.pg)
+![Dashboard Preview](Dashboard.png)
 
 ## Business Objective
 
@@ -111,7 +111,7 @@ blinkit-data-analysis/
 ├── README.md
 ├── Power-BI/
 │   ├── Blinkit-Sales-Analysis.pbix
-│   └── dashboard.png
+│   └── Dashboard.png
 └── Dataset/
     └── blinkit-data.xlsx
 ```
